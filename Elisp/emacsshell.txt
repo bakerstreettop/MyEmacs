@@ -1,0 +1,2 @@
+window:
+	1.add right list a.regedit; b.HKEY_CLASSES_ROOT\*\shell\  (new list...); c.add command and add icon
